@@ -1,7 +1,5 @@
 # Site-de-estudos-AWS
 
-🌎 Acesse o site
+Nesse projeto pude colocar em prática meus conhecimentos da linguagem de programação em HTML.
 
-👉🏼 Clique aqui para acessar o site:
-
-https://anajuliaprecioso-crypto.github.io/Site-de-estudos-HTML/
+Nele consegui explicar de maneira simples alguns dos tipos de armazenamento da Amazon Web Services (AWS).
